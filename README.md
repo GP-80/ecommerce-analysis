@@ -113,7 +113,10 @@ Interactive Power BI dashboard featuring:
 - **Time Series:** Revenue trends by month
 - **Filters:** Country selector for geographic analysis
 
-![Dashboard Preview](dashboard_screenshot.png) *(Add screenshot when available)*
+![Dashboard Preview]
+
+<img width="1568" height="860" alt="dashboard" src="https://github.com/user-attachments/assets/b9848a82-87e7-44b4-a7cf-a139813fe1a4" />
+
 
 ## 🚀 How to Run This Project
 
